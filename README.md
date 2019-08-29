@@ -10,6 +10,8 @@
             (Previous Click Handler)
         * nextClick
             (Next Click Handler)
+        * children
+            (To Pass JSX)
         * leftArrow
             (Left Arrow Image)
         * rightArrow
